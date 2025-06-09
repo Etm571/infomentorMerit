@@ -13,6 +13,7 @@ file = File.read('betyg.json')
 data = JSON.parse(file)
 
 previous_merit = nil
+inserted_line = false
 
 data.each do |term|
   year = term["value"]
@@ -21,24 +22,29 @@ data.each do |term|
   all_grades = grades1 + grades2
 
   merit_value = term.dig("subjectGradesListModel", "meritValue", "value")
-  if year.match?(/år 9/) && merit_value
-    merit = merit_value
+
+  merit = if year.match?(/år 9/) && merit_value
+    merit_value.to_f
   else
-    merit = all_grades.sum do |subject|
+    all_grades.sum do |subject|
       grade = subject.dig("currentGrade", "value")
       GRADE_POINTS[grade] || 0
     end
   end
 
+  if year.match?(/år 7/) && !inserted_line
+    puts "\nNedan är de som räknas:"
+    inserted_line = true
+  end
+
   if previous_merit
     difference = merit - previous_merit
-    puts "#{year}: #{merit} points (change: #{difference > 0 ? '+' : ''}#{difference})"
+    puts "#{year}: #{merit} poäng (skillnad: #{difference >= 0 ? '+' : ''}#{difference.round(2)})"
   else
-    puts "#{year}: #{merit} points"
+    puts "#{year}: #{merit} poäng"
   end
 
   previous_merit = merit
 end
 
-print "\n"
-puts "#användskola77"
+puts "\n#användskola77"
