@@ -12,6 +12,8 @@ GRADE_POINTS = {
 file = File.read('betyg.json')
 data = JSON.parse(file)
 
+previous_merit = nil
+
 data.each do |term|
   year = term["value"]
   grades1 = term.dig("subjectGradesListModel", "subjectsGradeData") || []
@@ -23,7 +25,15 @@ data.each do |term|
     GRADE_POINTS[grade] || 0
   end
 
-  puts "#{year}: #{merit} poäng"
+  if previous_merit
+    difference = merit - previous_merit
+    puts "#{year}: #{merit} points (change: #{difference > 0 ? '+' : ''}#{difference})"
+  else
+    puts "#{year}: #{merit} points"
+  end
+
+  previous_merit = merit
 end
+
 print "\n"
 puts "#användskola77"
