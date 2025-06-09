@@ -1,0 +1,1358 @@
+[
+    {
+        "subjectGradesListModel": {
+            "hasPrimarySchoolGrade": true,
+            "isFirstGradingTerm": true,
+            "comment": "",
+            "specialAidComment": "",
+            "subjectsGradeData": [
+                {
+                    "pastGrade": null,
+                    "subjectName": "Engelska",
+                    "currentGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": null,
+                    "subjectName": "Geografi",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": null,
+                    "subjectName": "Hem- och konsumentkunskap",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": null,
+                    "subjectName": "Historia",
+                    "currentGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": null,
+                    "subjectName": "Idrott och hälsa",
+                    "currentGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": null,
+                    "subjectName": "Matematik",
+                    "currentGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": null,
+                    "subjectName": "Moderna språk, språkval Franska",
+                    "currentGrade": {
+                        "value": "B",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": null,
+                    "subjectName": "Musik",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": null,
+                    "subjectName": "Naturorienterande ämnen",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": null,
+                    "subjectName": "Slöjd",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": null,
+                    "subjectName": "Svenska",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": null,
+                    "subjectName": "Teknik",
+                    "currentGrade": {
+                        "value": "E",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                }
+            ],
+            "onHoldSubjectsGradeData": [],
+            "meritValue": null
+        },
+        "key": "151",
+        "value": "Ht år 6",
+        "selected": false
+    },
+    {
+        "subjectGradesListModel": {
+            "hasPrimarySchoolGrade": true,
+            "isFirstGradingTerm": false,
+            "comment": "",
+            "specialAidComment": "",
+            "subjectsGradeData": [
+                {
+                    "pastGrade": null,
+                    "subjectName": "Bild",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "subjectName": "Engelska",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "subjectName": "Idrott och hälsa",
+                    "currentGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "subjectName": "Matematik",
+                    "currentGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "B",
+                        "isFinal": false
+                    },
+                    "subjectName": "Moderna språk, språkval Franska",
+                    "currentGrade": {
+                        "value": "B",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "subjectName": "Musik",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "subjectName": "Naturorienterande ämnen",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": null,
+                    "subjectName": "Religionskunskap",
+                    "currentGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": null,
+                    "subjectName": "Samhällskunskap",
+                    "currentGrade": {
+                        "value": "A",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "subjectName": "Slöjd",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "subjectName": "Svenska",
+                    "currentGrade": {
+                        "value": "B",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "E",
+                        "isFinal": false
+                    },
+                    "subjectName": "Teknik",
+                    "currentGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                }
+            ],
+            "onHoldSubjectsGradeData": [
+                {
+                    "termId": 151,
+                    "subjectName": "Geografi",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "termId": 151,
+                    "subjectName": "Hem- och konsumentkunskap",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "termId": 151,
+                    "subjectName": "Historia",
+                    "currentGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                }
+            ],
+            "meritValue": null
+        },
+        "key": "152",
+        "value": "Vt år 6",
+        "selected": false
+    },
+    {
+        "subjectGradesListModel": {
+            "hasPrimarySchoolGrade": true,
+            "isFirstGradingTerm": false,
+            "comment": "",
+            "specialAidComment": "",
+            "subjectsGradeData": [
+                {
+                    "pastGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "subjectName": "Bild",
+                    "currentGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "subjectName": "Engelska",
+                    "currentGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": null,
+                    "subjectName": "Fysik",
+                    "currentGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "subjectName": "Geografi",
+                    "currentGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "subjectName": "Idrott och hälsa",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": null,
+                    "subjectName": "Kemi",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "subjectName": "Matematik",
+                    "currentGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "B",
+                        "isFinal": false
+                    },
+                    "subjectName": "Moderna språk, språkval Franska",
+                    "currentGrade": {
+                        "value": "B",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "subjectName": "Musik",
+                    "currentGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "subjectName": "Religionskunskap",
+                    "currentGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "subjectName": "Slöjd",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "B",
+                        "isFinal": false
+                    },
+                    "subjectName": "Svenska",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                }
+            ],
+            "onHoldSubjectsGradeData": [
+                {
+                    "termId": 151,
+                    "subjectName": "Hem- och konsumentkunskap",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "termId": 151,
+                    "subjectName": "Historia",
+                    "currentGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "termId": 152,
+                    "subjectName": "Samhällskunskap",
+                    "currentGrade": {
+                        "value": "A",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "termId": 152,
+                    "subjectName": "Teknik",
+                    "currentGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                }
+            ],
+            "meritValue": null
+        },
+        "key": "153",
+        "value": "Ht år 7",
+        "selected": false
+    },
+    {
+        "subjectGradesListModel": {
+            "hasPrimarySchoolGrade": true,
+            "isFirstGradingTerm": false,
+            "comment": "",
+            "specialAidComment": "",
+            "subjectsGradeData": [
+                {
+                    "pastGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "subjectName": "Bild",
+                    "currentGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": null,
+                    "subjectName": "Biologi",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "subjectName": "Engelska",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "subjectName": "Geografi",
+                    "currentGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "subjectName": "Historia",
+                    "currentGrade": {
+                        "value": "A",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "subjectName": "Idrott och hälsa",
+                    "currentGrade": {
+                        "value": "B",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "subjectName": "Kemi",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "subjectName": "Matematik",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "B",
+                        "isFinal": false
+                    },
+                    "subjectName": "Moderna språk, språkval Franska",
+                    "currentGrade": {
+                        "value": "B",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "subjectName": "Musik",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "A",
+                        "isFinal": false
+                    },
+                    "subjectName": "Samhällskunskap",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "subjectName": "Slöjd",
+                    "currentGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "subjectName": "Svenska",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "subjectName": "Teknik",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                }
+            ],
+            "onHoldSubjectsGradeData": [
+                {
+                    "termId": 153,
+                    "subjectName": "Fysik",
+                    "currentGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "termId": 151,
+                    "subjectName": "Hem- och konsumentkunskap",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "termId": 153,
+                    "subjectName": "Religionskunskap",
+                    "currentGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                }
+            ],
+            "meritValue": null
+        },
+        "key": "154",
+        "value": "Vt år 7",
+        "selected": false
+    },
+    {
+        "subjectGradesListModel": {
+            "hasPrimarySchoolGrade": true,
+            "isFirstGradingTerm": false,
+            "comment": "",
+            "specialAidComment": "",
+            "subjectsGradeData": [
+                {
+                    "pastGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "subjectName": "Bild",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "subjectName": "Biologi",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "subjectName": "Engelska",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "subjectName": "Fysik",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "subjectName": "Hem- och konsumentkunskap",
+                    "currentGrade": {
+                        "value": "B",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "A",
+                        "isFinal": false
+                    },
+                    "subjectName": "Historia",
+                    "currentGrade": {
+                        "value": "B",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "B",
+                        "isFinal": false
+                    },
+                    "subjectName": "Idrott och hälsa",
+                    "currentGrade": {
+                        "value": "A",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "subjectName": "Matematik",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "B",
+                        "isFinal": false
+                    },
+                    "subjectName": "Moderna språk, språkval Franska",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "subjectName": "Musik",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "subjectName": "Religionskunskap",
+                    "currentGrade": {
+                        "value": "B",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "subjectName": "Slöjd",
+                    "currentGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "subjectName": "Svenska",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                }
+            ],
+            "onHoldSubjectsGradeData": [
+                {
+                    "termId": 154,
+                    "subjectName": "Geografi",
+                    "currentGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "termId": 154,
+                    "subjectName": "Kemi",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "termId": 154,
+                    "subjectName": "Samhällskunskap",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "termId": 154,
+                    "subjectName": "Teknik",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                }
+            ],
+            "meritValue": null
+        },
+        "key": "155",
+        "value": "Ht år 8",
+        "selected": false
+    },
+    {
+        "subjectGradesListModel": {
+            "hasPrimarySchoolGrade": true,
+            "isFirstGradingTerm": false,
+            "comment": "",
+            "specialAidComment": "",
+            "subjectsGradeData": [
+                {
+                    "pastGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "subjectName": "Bild",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "subjectName": "Engelska",
+                    "currentGrade": {
+                        "value": "B",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "subjectName": "Geografi",
+                    "currentGrade": {
+                        "value": "A",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "B",
+                        "isFinal": false
+                    },
+                    "subjectName": "Hem- och konsumentkunskap",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "A",
+                        "isFinal": false
+                    },
+                    "subjectName": "Idrott och hälsa",
+                    "currentGrade": {
+                        "value": "A",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "subjectName": "Kemi",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "subjectName": "Matematik",
+                    "currentGrade": {
+                        "value": "B",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "subjectName": "Moderna språk, språkval Franska",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "subjectName": "Musik",
+                    "currentGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "subjectName": "Samhällskunskap",
+                    "currentGrade": {
+                        "value": "B",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "subjectName": "Slöjd",
+                    "currentGrade": {
+                        "value": "E",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "subjectName": "Svenska",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "subjectName": "Teknik",
+                    "currentGrade": {
+                        "value": "B",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                }
+            ],
+            "onHoldSubjectsGradeData": [
+                {
+                    "termId": 155,
+                    "subjectName": "Biologi",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "termId": 155,
+                    "subjectName": "Fysik",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "termId": 155,
+                    "subjectName": "Historia",
+                    "currentGrade": {
+                        "value": "B",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "termId": 155,
+                    "subjectName": "Religionskunskap",
+                    "currentGrade": {
+                        "value": "B",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                }
+            ],
+            "meritValue": null
+        },
+        "key": "156",
+        "value": "Vt år 8",
+        "selected": false
+    },
+    {
+        "subjectGradesListModel": {
+            "hasPrimarySchoolGrade": true,
+            "isFirstGradingTerm": false,
+            "comment": "",
+            "specialAidComment": "",
+            "subjectsGradeData": [
+                {
+                    "pastGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "subjectName": "Bild",
+                    "currentGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "subjectName": "Biologi",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "B",
+                        "isFinal": false
+                    },
+                    "subjectName": "Engelska",
+                    "currentGrade": {
+                        "value": "B",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "subjectName": "Fysik",
+                    "currentGrade": {
+                        "value": "B",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "A",
+                        "isFinal": false
+                    },
+                    "subjectName": "Geografi",
+                    "currentGrade": {
+                        "value": "A",
+                        "isFinal": true
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "subjectName": "Hem- och konsumentkunskap",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "A",
+                        "isFinal": false
+                    },
+                    "subjectName": "Idrott och hälsa",
+                    "currentGrade": {
+                        "value": "A",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "B",
+                        "isFinal": false
+                    },
+                    "subjectName": "Matematik",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "subjectName": "Moderna språk, språkval Franska",
+                    "currentGrade": {
+                        "value": "B",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "D",
+                        "isFinal": false
+                    },
+                    "subjectName": "Musik",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "B",
+                        "isFinal": false
+                    },
+                    "subjectName": "Samhällskunskap",
+                    "currentGrade": {
+                        "value": "B",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "E",
+                        "isFinal": false
+                    },
+                    "subjectName": "Slöjd",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "pastGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "subjectName": "Svenska",
+                    "currentGrade": {
+                        "value": "B",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                }
+            ],
+            "onHoldSubjectsGradeData": [
+                {
+                    "termId": 155,
+                    "subjectName": "Historia",
+                    "currentGrade": {
+                        "value": "B",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "termId": 156,
+                    "subjectName": "Kemi",
+                    "currentGrade": {
+                        "value": "C",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "termId": 155,
+                    "subjectName": "Religionskunskap",
+                    "currentGrade": {
+                        "value": "B",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                },
+                {
+                    "termId": 156,
+                    "subjectName": "Teknik",
+                    "currentGrade": {
+                        "value": "B",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                }
+            ],
+            "meritValue": {
+                "value": 282.5,
+                "maxValue": 340
+            }
+        },
+        "key": "157",
+        "value": "Ht år 9",
+        "selected": true
+    },
+    {
+        "subjectGradesListModel": {
+            "hasPrimarySchoolGrade": true,
+            "isFirstGradingTerm": false,
+            "comment": "",
+            "specialAidComment": "",
+            "subjectsGradeData": [
+                {
+                    "pastGrade": {
+                        "value": "A",
+                        "isFinal": true
+                    },
+                    "subjectName": "Geografi",
+                    "currentGrade": {
+                        "value": "A",
+                        "isFinal": false
+                    },
+                    "showPrimarySchoolLabel": false
+                }
+            ],
+            "onHoldSubjectsGradeData": [],
+            "meritValue": {
+                "value": 297.5,
+                "maxValue": 340
+            }
+        },
+        "key": "158",
+        "value": "Vt år 9 (Slutbetyg)",
+        "selected": true
+    }
+]
