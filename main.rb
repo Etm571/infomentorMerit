@@ -20,9 +20,14 @@ data.each do |term|
   grades2 = term.dig("subjectGradesListModel", "onHoldSubjectsGradeData") || []
   all_grades = grades1 + grades2
 
-  merit = all_grades.sum do |subject|
-    grade = subject.dig("currentGrade", "value")
-    GRADE_POINTS[grade] || 0
+  merit_value = term.dig("subjectGradesListModel", "meritValue", "value")
+  if year.match?(/år 9/) && merit_value
+    merit = merit_value
+  else
+    merit = all_grades.sum do |subject|
+      grade = subject.dig("currentGrade", "value")
+      GRADE_POINTS[grade] || 0
+    end
   end
 
   if previous_merit
