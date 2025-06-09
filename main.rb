@@ -32,7 +32,7 @@ data.each do |term|
     end
   end
 
-  if year.match?(/år 7/) && !inserted_line
+  if year.match?(/Vt år 7/) && !inserted_line
     puts "\nNedan är de som räknas:"
     inserted_line = true
   end
