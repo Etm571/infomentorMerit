@@ -35,7 +35,7 @@ The script reads your grades from a `betyg.json` file and calculates your merit 
 
 2. Place your `betyg.json` file in the project folder.
 
-3. Run the script:
+3. Run the script with the command below or open the .exe file:
    
    ```sh
    ruby main.rb
